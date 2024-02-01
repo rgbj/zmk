@@ -11,6 +11,7 @@ module.exports = {
     Features: [
       "features/keymaps",
       "features/bluetooth",
+      "features/boot-magic-key",
       "features/combos",
       "features/conditional-layers",
       "features/debouncing",
@@ -32,6 +33,7 @@ module.exports = {
       "behaviors/key-toggle",
       "behaviors/sticky-key",
       "behaviors/sticky-layer",
+      "behaviors/tri-state",
       "behaviors/tap-dance",
       "behaviors/caps-word",
       "behaviors/key-repeat",
